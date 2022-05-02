@@ -1,0 +1,7 @@
+C:\Users\90842\OneDrive\桌面\CsharpHW\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\90842\OneDrive\桌面\CsharpHW\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\90842\OneDrive\桌面\CsharpHW\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\90842\OneDrive\桌面\CsharpHW\HW1\HW1\obj\Debug\HW1.csproj.AssemblyReference.cache
+C:\Users\90842\OneDrive\桌面\CsharpHW\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\90842\OneDrive\桌面\CsharpHW\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\90842\OneDrive\桌面\CsharpHW\HW1\HW1\obj\Debug\HW1.pdb

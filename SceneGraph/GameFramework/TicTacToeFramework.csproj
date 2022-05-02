@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Roger Crawfis</Authors>
+    <Company>The Ohio State University</Company>
+    <Description>A generalized framework for games in the style of tic-tac-toe.</Description>
+    <Copyright>2021 Roger Crawfis</Copyright>
+  </PropertyGroup>
+
+</Project>
